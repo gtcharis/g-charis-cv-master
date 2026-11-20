@@ -5,6 +5,7 @@ export const cv = {
   title: "Software Engineer · Solutions Architect",
   headline: "TECHNOLOGY & PRODUCT LEADER",
   contact: {
+    phone: "+263 78 418 1473",
     email: "godfreytcharis@gmail.com",
     linkedin: "https://www.linkedin.com/in/gcharis/",
     linkedinLabel: "linkedin.com/in/gcharis",

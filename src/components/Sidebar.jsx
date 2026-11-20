@@ -11,6 +11,7 @@ export default function Sidebar({page}) {
     <div className="side-title light">{cv.headline}</div>
     <SideSection title="Contact">
       <label>LOCATION</label><div>{cv.contact.location}</div>
+      <label>PHONE</label><div>{cv.contact.phone}</div>
       <label>EMAIL</label><div>{cv.contact.email}</div>
       <label>LINKEDIN</label><a href={cv.contact.linkedin}>{cv.contact.linkedinLabel}</a>
       <label>GITHUB</label><a href={cv.contact.github}>{cv.contact.githubLabel}</a>
