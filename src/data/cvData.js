@@ -171,5 +171,6 @@ export const cv = {
       "Supported participants with varying programming experience through practical, project-based learning."
     ]
   },
+  strengths: ["Engineering and technical leadership", "Product ownership and strategic product development", "Executive and Board-level stakeholder engagement", "Technical mentorship and software development instruction", "Cross-functional team coordination", "Business requirements analysis and solution design", "Technical communication and documentation", "Analytical thinking and problem-solving", "Project coordination and delivery management", "Continuous learning and technology evaluation"],
   sidebarCore: ["Software Engineering", "Technology & Product Leadership", "Data Science & Analytics", "Applied AI & Machine Learning", "DevOps & Infrastructure", "Financial & Business Systems"]
 };

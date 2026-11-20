@@ -1,6 +1,6 @@
 # Godfrey Charis — Master CV
 
-React + Vite CV site updated to reflect the locked master professional record.
+React + Vite master CV website with a navy sidebar, gold accents, A4 page layout and Print / Save PDF support.
 
 ## Run locally
 
@@ -9,24 +9,14 @@ npm install
 npm run dev
 ```
 
-## Build and preview
+## Production build
 
 ```bash
 npm run build
-npm run preview
 ```
 
-## Print / Save PDF
+## Layout
 
-Use the **Print / Save PDF** control. The layout is designed as an eight-page A4 master CV with selectable text.
+The master CV uses a compact six-page A4 layout. It retains the approved navy/gold visual identity while using tighter vertical spacing and two-column project grids to reduce unused page space. Content remains in `src/data/cvData.js` for straightforward updates.
 
-## GitHub Pages
-
-This is a static Vite application and can be hosted on GitHub Pages. If deploying to a repository URL such as `https://username.github.io/repository/`, set the Vite `base` option in `vite.config.js` to `'/repository/'` and configure GitHub Actions or a Pages deployment workflow.
-
-## Content notes
-
-- MyJobAgent is marked as active development / production-targeted.
-- TimberPay, TimberBank and Telememo implementation details are explicitly marked as to be confirmed where evidence is incomplete.
-- Academic subjects are included; provisional marks are not displayed.
-- Review dates, project status and technologies before publishing publicly.
+The master record is comprehensive. For job applications, create shorter tailored versions from this source rather than deleting material from the master.
